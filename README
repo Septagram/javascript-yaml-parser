@@ -14,6 +14,12 @@ a robust parser in Javascript, enough to load simply structured YAML files,
 without depending on external libraries and as compatible as possible with all
 Javascript-powered browsers.
 
+Novikov I.G.: Currently, there are other versions in existence. This is a fork of SVN repository
+at http://code.google.com/p/javascript-yaml-parser/ . Also, a CommonJS port exists
+at https://github.com/h4evr/commonjs-javascript-yaml-parser . As far as I know,
+this is the most current version. I will try to maintain it and maybe merge it into
+the CommonJS version (or vice versa).
+
 INSTALLATION
 
 To use the parser, copy 'src/yaml.js' to your javascript-files folder and 
